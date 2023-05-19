@@ -1,4 +1,3 @@
-// CONTACTS OBJECT (ADDRESS BOOK)
 var contacts = [
     {
         "firstName": "Akira",
